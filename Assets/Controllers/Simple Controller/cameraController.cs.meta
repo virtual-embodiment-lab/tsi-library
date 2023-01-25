@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Library/Controllers/Simple Controller/cameraController.cs.meta
+guid: 340da4b6b6ccf43f7b0b00856e57cf7d
+========
+guid: e72c92d66e48a48bb8b8b7141c495e8d
+>>>>>>>> main:Assets/Library/Controllers/XR Controller/Scripts/LocalAvatarController.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

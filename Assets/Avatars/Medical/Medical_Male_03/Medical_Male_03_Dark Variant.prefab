@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5211453464250174464
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 699db091d502842cba776af8e2f0c235,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 699db091d502842cba776af8e2f0c235,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.276
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 699db091d502842cba776af8e2f0c235,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 699db091d502842cba776af8e2f0c235,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.359
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 699db091d502842cba776af8e2f0c235,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.2278424
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 699db091d502842cba776af8e2f0c235,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 699db091d502842cba776af8e2f0c235,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9736981
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 699db091d502842cba776af8e2f0c235,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 699db091d502842cba776af8e2f0c235,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 699db091d502842cba776af8e2f0c235,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 699db091d502842cba776af8e2f0c235,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 699db091d502842cba776af8e2f0c235,
+        type: 3}
+      propertyPath: m_Name
+      value: Medical_Male_03_Dark Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 699db091d502842cba776af8e2f0c235,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 9696f2dac644d40f4839ba9156e99874, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 699db091d502842cba776af8e2f0c235, type: 3}
+--- !u!1 &4941474092530364753 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 699db091d502842cba776af8e2f0c235,
+    type: 3}
+  m_PrefabInstance: {fileID: 5211453464250174464}
+  m_PrefabAsset: {fileID: 0}
+--- !u!136 &4866271159563505453
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4941474092530364753}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.2
+  m_Height: 1.9
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.85, z: -0.06}

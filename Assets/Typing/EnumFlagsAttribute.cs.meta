@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Library/Typing/EnumFlagsAttribute.cs.meta
+guid: bc5c3c56b56e34b4db624138c3426456
+========
+guid: 45d0f72fe414948929862cc78098c21e
+>>>>>>>> main:Assets/Library/Controllers/XR Controller/Scripts/TrackedDataSource.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

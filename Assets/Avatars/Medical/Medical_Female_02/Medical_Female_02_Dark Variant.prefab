@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4872698722893888937
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.13
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.254
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.018211726
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.99983424
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_Name
+      value: Medical_Female_02_Dark Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1042659815581740473, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9d1a850cf280a48e3b4baba08b1ae0f3, type: 2}
+    - target: {fileID: 1042659815581740473, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: acc2b2466db8a452db0f0e44a0464bd1, type: 2}
+    - target: {fileID: 5866666021909216657, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 90b6a109dd24a437a8cad11f5ec735fe, type: 2}
+    - target: {fileID: 5866666021909216657, guid: 65034e54f587e43c78d433f5ba544a0f,
+        type: 3}
+      propertyPath: m_WarningMessage
+      value: "\nBinding warning: Some generic clip(s) animate transforms that are
+        already bound by a Humanoid avatar. These transforms can only be changed
+        by Humanoid clips.\n\tTransform 'Bip01'\n\tTransform 'Bip01 L UpperArm'\n\tTransform
+        'Bip01 R UpperArm'\n\tTransform 'Bip01 L Finger0'\n\tTransform 'Bip01 L Foot'\n\tTransform
+        'Bip01 R Finger0'\n\tTransform 'Bip01 Head'\n\tTransform 'Bip01 L Calf'\n\tTransform
+        'Bip01 R Finger1'\n\tTransform 'Bip01 L Clavicle'\n\tand more ...\n\tFrom
+        animation clip 'mixamo.com'"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 65034e54f587e43c78d433f5ba544a0f, type: 3}
+--- !u!1 &5719048683742019832 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 65034e54f587e43c78d433f5ba544a0f,
+    type: 3}
+  m_PrefabInstance: {fileID: 4872698722893888937}
+  m_PrefabAsset: {fileID: 0}
+--- !u!136 &4578902180316595498
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5719048683742019832}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.2
+  m_Height: 1.9
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.85, z: -0.06}
